@@ -1,0 +1,6 @@
+{
+  "name": "DRISHTI-X: Crowd Safety & Response Intelligence",
+  "description": "AI-assisted public gathering safety and response intelligence decision-support platform with counterfactual what-if simulation, incident management, and human approval workflow for NCC Idea & Innovation Competition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
